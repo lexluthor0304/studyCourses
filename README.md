@@ -29,7 +29,7 @@
 2. [AWS Lambda](https://aws.amazon.com/jp/serverless/)
 3. [Netlify](https://www.netlify.com/)
 
-## 開発において掛けてはいけないもの
+## 開発において欠けてはならないもの
 1. [HTTP入門](http://www.tohoho-web.com/ex/http.htm)
 
 > オブジェクトと異なる、関数式プログラミングもやろうかなと思ってる。
