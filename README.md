@@ -20,6 +20,9 @@
 * React(front-end) JSXが関わってくる
 * Express(back-end)
 
+## 開発において掛けてはいけないもの
+1. [HTTP入門](http://www.tohoho-web.com/ex/http.htm)
+
 > オブジェクトと異なる、関数式プログラミングもやろうかなと思ってる。
 >
 JSの変数宣言は __const!!!__ varじゃだめ
