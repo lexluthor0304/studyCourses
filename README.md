@@ -6,6 +6,6 @@
 3. [公式参考サイト](https://developer.mozilla.org/ja/docs/Web/JavaScript)
 
 > オブジェクトと異なる、関数式プログラミングもやろうかなと思ってる。 
-> JSの変数宣言はconst!!!varじゃだめ
+__JSの変数宣言はconst!!!varじゃだめ__
 # reference
 1. [オススメの無料学習サイト](https://www.codecademy.com/)
