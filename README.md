@@ -5,3 +5,5 @@
 2. [現代的文法](https://jsprimer.net/)
 3. [公式参考サイト](https://developer.mozilla.org/ja/docs/Web/JavaScript)
 * 変数宣言はconst!!!
+# reference
+1. [オススメの無料学習サイト](https://www.codecademy.com/)
