@@ -20,6 +20,11 @@
 * React(front-end) JSXが関わってくる
 * Express(back-end)
 
+## Serverlessの代表製品
+1. [Friebase](https://firebase.google.com/?hl=ja)
+2. [AWS Lambda](https://aws.amazon.com/jp/serverless/)
+3. [Netlify](https://www.netlify.com/)
+
 ## 開発において掛けてはいけないもの
 1. [HTTP入門](http://www.tohoho-web.com/ex/http.htm)
 
