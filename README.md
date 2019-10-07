@@ -5,7 +5,8 @@
 2. [現代的文法](https://jsprimer.net/)
 3. [公式参考サイト](https://developer.mozilla.org/ja/docs/Web/JavaScript)
 
-> オブジェクトと異なる、関数式プログラミングもやろうかなと思ってる。 
+> オブジェクトと異なる、関数式プログラミングもやろうかなと思ってる。
+>
 __JSの変数宣言はconst!!!varじゃだめ__
 # reference
 1. [オススメの無料学習サイト](https://www.codecademy.com/)
