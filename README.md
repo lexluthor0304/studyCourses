@@ -1,7 +1,8 @@
 # 事前準備
 * vscode
-* node.js(NPM)
+* node.js(npm or yard)
 * Git(使い方は事前講習しないので、できれば自主学習でお願いしたい)
+* Github Pagesとはなに
 
 # 目標
 個人サイト立ち上げる（serverlessかどうかを検討中）
