@@ -12,6 +12,7 @@
 ## JS勉強会
 都内某所にて開かれる
 
+![esvsjs.gif](https://i.imgur.com/mIqFGB9.gif)
 ## 入門
 0. [TrailheadのJSバッジ](https://trailhead.salesforce.com/ja/content/learn/modules/javascript-essentials-salesforce-developers)
 1. [JS概要](https://www.slideshare.net/toranoana-lab/node-siryou)
