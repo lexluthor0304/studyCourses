@@ -1,3 +1,5 @@
+![ES8.jpeg](https://miro.medium.com/max/8208/1*xcnJE5kn0pCdZNpFQT86tQ.jpeg)
+
 # 事前準備
 * vscode
 * node.js(npm or yard)
