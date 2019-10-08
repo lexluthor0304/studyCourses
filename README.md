@@ -3,7 +3,7 @@
 # 事前準備
 * vscode
 * node.js(npm or yarn)
-    個人的にyarnのほうがオススメ　[Yarn HP](https://yarnpkg.com/lang/en/)
+    * 個人的にyarnのほうがオススメ　[Yarn HP](https://yarnpkg.com/lang/en/)
 * Git(使い方は事前講習しないので、できれば自主学習でお願いしたい)
 * Github Pagesとはなに
 
