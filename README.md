@@ -25,8 +25,11 @@
 
 ## 技術スタック
 * Gatsby(serverless)
+    * [HP](https://www.gatsbyjs.org/)
 * React(front-end) JSXが関わってくる
+    * [HP](https://ja.reactjs.org/)
 * Express(back-end)
+    * [HP](https://expressjs.com/ja/) 
 
 ## Serverlessの代表製品
 1. [Friebase](https://firebase.google.com/?hl=ja)
