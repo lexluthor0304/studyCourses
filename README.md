@@ -18,10 +18,10 @@
 0. [TrailheadのJSバッジ](https://trailhead.salesforce.com/ja/content/learn/modules/javascript-essentials-salesforce-developers)
 1. [JS概要](https://www.slideshare.net/toranoana-lab/node-siryou)
 2. [現代的文法](https://jsprimer.net/)
-    * [Promiseの代わりにasync/awaitを使おう]https://qiita.com/soarflat/items/1a9613e023200bbebcb3
+    * [Promiseの代わりにasync/awaitを使おう](https://qiita.com/soarflat/items/1a9613e023200bbebcb3)
 3. [モダンなJS](https://trailhead.salesforce.com/ja/content/learn/modules/modern-javascript-development?trail_id=learn-to-work-with-javascript)
 4. [公式参考サイト](https://developer.mozilla.org/ja/docs/Web/JavaScript)
-    * [アロー函数]https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Functions/Arrow_functions
+    * [アロー函数](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
 
 ## 技術スタック
 * Gatsby(serverless)
