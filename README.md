@@ -20,6 +20,7 @@
 2. [現代的文法](https://jsprimer.net/)
     * [Promiseの代わりにasync/awaitを使おう](https://qiita.com/soarflat/items/1a9613e023200bbebcb3)
     * [アロー函数](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
+    * [ラムダ式JS](https://qiita.com/may88seiji/items/4a49c7c78b55d75d693b)
 3. [モダンなJS](https://trailhead.salesforce.com/ja/content/learn/modules/modern-javascript-development?trail_id=learn-to-work-with-javascript)
 4. [公式参考サイト](https://developer.mozilla.org/ja/docs/Web/JavaScript)
 
