@@ -44,6 +44,11 @@
 >
 JSの変数宣言は __const!!!__ varじゃだめ
 
+## テスト自動化
+1. [jest](https://jestjs.io/ja/)
+PS:**打鍵テストマジ効率悪い**
+https://blogs.msdn.microsoft.com/nakama/2018/06/20/testmanager/
+
 # reference
 1. [オススメの無料学習サイト](https://www.codecademy.com/)
 2. [技術的なお問い合わせに関するガイドライン](https://aws.amazon.com/jp/premiumsupport/tech-support-guidelines/)
