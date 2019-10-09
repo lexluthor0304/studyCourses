@@ -26,9 +26,9 @@
 
 ## 技術スタック
 * Gatsby(serverless)
-    * [HP](https://www.gatsbyjs.org/)
+    * [Tutorial](https://www.gatsbyjs.org/tutorial/)
 * React(front-end) JSXが関わってくる
-    * [HP](https://ja.reactjs.org/)
+    * [Tutorial](https://ja.reactjs.org/tutorial/tutorial.html)
 * Express(back-end)
     * [HP](https://expressjs.com/ja/) 
 
