@@ -43,5 +43,7 @@
 > オブジェクトと異なる、関数式プログラミングもやろうかなと思ってる。
 >
 JSの変数宣言は __const!!!__ varじゃだめ
+
 # reference
 1. [オススメの無料学習サイト](https://www.codecademy.com/)
+2. [技術的なお問い合わせに関するガイドライン](https://aws.amazon.com/jp/premiumsupport/tech-support-guidelines/)
