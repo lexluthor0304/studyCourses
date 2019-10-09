@@ -6,6 +6,7 @@
     * 個人的にyarnのほうがオススメ　[Yarn HP](https://yarnpkg.com/lang/en/)
 * Git(使い方は事前講習しないので、できれば自主学習でお願いしたい)
 * Github Pagesとはなに
+* Markdownを用いてドキュメントを作る
 
 # 目標
 個人サイト立ち上げる（serverlessかどうかを検討中）
@@ -45,7 +46,7 @@
 JSの変数宣言は __const!!!__ varじゃだめ
 
 ## テスト自動化
-1. [jest](https://jestjs.io/ja/)
+1. [jest](https://jestjs.io/ja/)　　
 PS:**打鍵テストマジ効率悪い**
 https://blogs.msdn.microsoft.com/nakama/2018/06/20/testmanager/
 
