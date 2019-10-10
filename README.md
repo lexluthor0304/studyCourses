@@ -24,6 +24,7 @@
     * [ラムダ式JS](https://qiita.com/may88seiji/items/4a49c7c78b55d75d693b)
 3. [モダンなJS](https://trailhead.salesforce.com/ja/content/learn/modules/modern-javascript-development?trail_id=learn-to-work-with-javascript)
 4. [公式参考サイト](https://developer.mozilla.org/ja/docs/Web/JavaScript)
+5. [JavaScript Promiseの本](https://azu.github.io/promises-book/)
 
 ## 技術スタック
 * Gatsby(serverless)
