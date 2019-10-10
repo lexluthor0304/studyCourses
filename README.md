@@ -51,6 +51,12 @@ JSの変数宣言は __const!!!__ varじゃだめ
 PS:**打鍵テストマジ効率悪い**
 https://blogs.msdn.microsoft.com/nakama/2018/06/20/testmanager/
 
+## 作成したい個人HP
+* [虹雲ワークス](https://www.nijikumo.net/)
+
+# 副業展開
+* 本業はどうでもいいんで、副業やりません？
+
 # reference
 1. [オススメの無料学習サイト](https://www.codecademy.com/)
 2. [技術的なお問い合わせに関するガイドライン](https://aws.amazon.com/jp/premiumsupport/tech-support-guidelines/)
