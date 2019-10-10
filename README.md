@@ -7,6 +7,7 @@
 * Git(使い方は事前講習しないので、できれば自主学習でお願いしたい)
 * Github Pagesとはなに
 * Markdownを用いてドキュメントを作る
+    * [ドキュメント本来のあり方 zeronet](https://zeronet.io/docs/)
 
 # 目標
 個人サイト立ち上げる（serverlessかどうかを検討中）
