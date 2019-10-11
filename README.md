@@ -26,6 +26,7 @@
 3. [モダンなJS](https://trailhead.salesforce.com/ja/content/learn/modules/modern-javascript-development?trail_id=learn-to-work-with-javascript)
 4. [公式参考サイト](https://developer.mozilla.org/ja/docs/Web/JavaScript)
 5. [JavaScript Promiseの本](https://azu.github.io/promises-book/)
+6. [ECMA](https://www.ecma-international.org/ecma-262/)
 
 ### 技術スタック
 * Gatsby(serverless)
