@@ -63,3 +63,4 @@ https://blogs.msdn.microsoft.com/nakama/2018/06/20/testmanager/
 1. [オススメの無料学習サイト](https://www.codecademy.com/)
 2. [技術的なお問い合わせに関するガイドライン](https://aws.amazon.com/jp/premiumsupport/tech-support-guidelines/)
 3. [WEB技術全般](https://www.w3schools.com/whatis/whatis_fullstack_js.asp)
+4. [AirbnbさんのJSスタイルガイド](https://github.com/airbnb/javascript)
