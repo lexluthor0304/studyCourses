@@ -41,6 +41,7 @@
 2. [AWS Lambda](https://aws.amazon.com/jp/serverless/)
 3. [Netlify](https://www.netlify.com/)
 
+![HowToProgramming](https://github.com/GitbookIO/javascript/blob/master/assets/intro.png)
 ### 開発において欠けてはならないもの
 1. [HTTP入門](http://www.tohoho-web.com/ex/http.htm)
 
