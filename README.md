@@ -10,7 +10,7 @@
     * [ドキュメント本来のあり方 zeronet](https://zeronet.io/docs/)
 
 ### 目標
-個人サイト立ち上げる（serverlessかどうかを検討中）
+個人サイト立ち上げる（serverlessかどうかを検討中）  
 
 ###
 vim好きな人ならvimの配置手順はこちら：
