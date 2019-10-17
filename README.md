@@ -12,6 +12,10 @@
 ### 目標
 個人サイト立ち上げる（serverlessかどうかを検討中）
 
+###
+vim好きな人ならvimの配置手順はこちら：
+[A guide to setting up Vim for JavaScript development](https://freshman.tech/vim-javascript/)
+
 ### JS勉強会
 都内某所にて開かれる
 
