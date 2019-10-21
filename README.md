@@ -31,6 +31,7 @@ vim好きな人ならvimの配置手順はこちら：
 4. [公式参考サイト](https://developer.mozilla.org/ja/docs/Web/JavaScript)
 5. [JavaScript Promiseの本](https://azu.github.io/promises-book/)
 6. [ECMA](https://www.ecma-international.org/ecma-262/)
+7. [react日本語チュートリアル](https://qiita.com/TsutomuNakamura/items/72d8cf9f07a5a30be048)
 
 ### 技術スタック
 * Gatsby(serverless)
