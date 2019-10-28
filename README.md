@@ -49,6 +49,7 @@ vim好きな人ならvimの配置手順はこちら：
 ![HowToProgramming](https://github.com/GitbookIO/javascript/blob/master/assets/intro.png)
 ### 開発において欠けてはならないもの
 1. [HTTP入門](http://www.tohoho-web.com/ex/http.htm)
+2. [WEBAPIとは](https://qiita.com/busyoumono99/items/9b5ffd35dd521bafce47)
 
 > オブジェクトと異なる、関数式プログラミングもやろうかなと思ってる。
 >
