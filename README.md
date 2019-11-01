@@ -68,6 +68,7 @@ https://blogs.msdn.microsoft.com/nakama/2018/06/20/testmanager/
 
 ### reference
 1. [オススメの無料学習サイト](https://www.codecademy.com/)
-2. [技術的なお問い合わせに関するガイドライン](https://aws.amazon.com/jp/premiumsupport/tech-support-guidelines/)
-3. [WEB技術全般](https://www.w3schools.com/whatis/whatis_fullstack_js.asp)
-4. [AirbnbさんのJSスタイルガイド](https://github.com/airbnb/javascript)
+1. [技術的なお問い合わせに関するガイドライン](https://aws.amazon.com/jp/premiumsupport/tech-support-guidelines/)
+1. [WEB技術全般](https://www.w3schools.com/whatis/whatis_fullstack_js.asp)
+1. [AirbnbさんのJSスタイルガイド](https://github.com/airbnb/javascript)
+1. 再帰関数(https://qiita.com/chuck0523/items/2c40a5da90a1d73ab956)
